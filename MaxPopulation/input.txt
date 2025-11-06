@@ -1,0 +1,4 @@
+Dhaka 10000000
+Chittagong 5000000
+Sylhet 2000000
+Rajshahi 3500000
